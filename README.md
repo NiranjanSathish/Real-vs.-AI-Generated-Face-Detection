@@ -2,6 +2,8 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NiranjanSathish/Real-vs.-AI-Generated-Face-Detection/blob/main/Niranjan_Sathish_CS6180_HW1.ipynb)
 
+![Try it out](https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg)(https://huggingface.co/spaces/NiranjanSathish/Interactive_Human_vs_AIDetector_Game)
+
 This project explores deep learning models to distinguish between real human faces and AI-generated faces. It includes data exploration, baseline MLP and CNN models, data augmentation, transfer learning with MobileNetV2, and a deployed interactive Gradio application.
 
 ## 📂 Project Structure
