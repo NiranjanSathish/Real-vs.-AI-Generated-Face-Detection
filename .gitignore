@@ -33,8 +33,6 @@ cnn_strategies.py
 download_data.py
 prepare_assets.py
 
-#gradio
-gradio_app/
 
 #Folders
 Ninjafinal/
