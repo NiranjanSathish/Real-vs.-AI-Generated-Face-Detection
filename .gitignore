@@ -1,0 +1,42 @@
+# Virtual Environment
+HW1.venv/
+venv/
+env/
+
+# Datasets
+real_and_AI/
+Ninjafinal/
+*.zip
+test_images/
+
+# System Files
+__MACOSX/
+.DS_Store
+Thumbs.db
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.ipynb_checkpoints
+*.pyc
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+CS6180_HW1.ipynb
+Confusion matrix.png
+best_cnn_baseline.keras
+cnn_strategies.py
+download_data.py
+prepare_assets.py
+
+#gradio
+gradio_app/
+
+#Folders
+Ninjafinal/
+real_and_AI/
+test_images/
